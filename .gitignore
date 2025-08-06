@@ -1,9 +1,6 @@
 .DS_Store
 node_modules
 dev-dist
-build
-types
 .idea
 .github
-
 .env
